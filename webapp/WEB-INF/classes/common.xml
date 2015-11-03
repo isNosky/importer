@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:jdbc="http://www.springframework.org/schema/jdbc"
+
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.springframework.org/schema/jdbc http://www.springframework.org/schema/jdbc/spring-jdbc-3.0.xsd">
+
+    <bean id="RestletComponent" class="org.restlet.Component"/>
+
+    <bean id="RestletComponentService" class="org.apache.camel.component.restlet.RestletComponent">
+        <constructor-arg ref="RestletComponent" />
+    </bean>
+	
+	<bean id="ImportBean" class="com.nosky.service.Import" init-method="Initialize" destroy-method="Finilize" >
+		<property name="basePath" value="${parser.directory}"></property>
+	</bean>
+	<bean id="appcontext" class="com.rayda.utils.SpringContextHelper"/>
+	<bean id="camelcontext" class="com.rayda.utils.CamelContextHelper"/>
+	
+	<bean id="servicedb" class="org.apache.commons.dbcp.BasicDataSource">
+		<property name="username" value="root"></property>
+		<property name="password" value=""></property>
+		<property name="url" value="jdbc:mysql://127.0.0.1:3306/dc"></property>
+		<property name="driverClassName" value="com.mysql.jdbc.Driver"></property>
+		<property name="initialSize" value="10"></property>
+		<property name="maxActive" value="100"></property>
+		<property name="maxIdle" value="30"></property>
+		<property name="minIdle" value="5"></property>
+		<property name="maxWait" value="5000"></property>
+		<property name="removeAbandoned" value="true"></property>
+		<property name="removeAbandonedTimeout" value="3000"></property>
+		<property name="logAbandoned" value="false"></property>
+	</bean>
+	
+	<jdbc:embedded-database id="dataSource" type="DERBY">
+		<jdbc:script location="classpath:create-derby.sql"/>
+	</jdbc:embedded-database>
+	
+</beans>

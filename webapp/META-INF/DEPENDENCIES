@@ -1,0 +1,187 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+teleservice
+
+
+From: 'an unknown organization'
+  - AOP alliance (http://aopalliance.sourceforge.net) aopalliance:aopalliance:jar:1.0
+    License: Public Domain 
+  - Code Generation Library (http://cglib.sourceforge.net/) cglib:cglib-nodep:jar:2.2
+    License: ASF 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - sqljdbc4  com.microsoft.sqlserver:sqljdbc4:jar:4.0
+
+  - comet-client  com.rayda.comet:comet-client:jar:1.0
+
+  - jsr173_api  javax.xml.bind:jsr173_api:jar:1.0
+
+  - MySQL java connector (http://dev.mysql.com/usingmysql/java/) mysql:mysql-connector-java:jar:5.1.18
+    License: The GNU General Public License, Version 2  (http://www.gnu.org/licenses/gpl.txt)
+  - "Java Concurrency in Practice" book annotations (http://jcip.net/) net.jcip:jcip-annotations:jar:1.0
+
+  - Jettison (http://codehaus.org/jettison/) org.codehaus.jettison:jettison:bundle:1.3.5
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - FreeMarker (http://www.freemarker.org) org.freemarker:freemarker:jar:2.3.9
+    License: BSD-style license  (http://www.freemarker.org/LICENSE.txt)
+  - Quartz Enterprise Job Scheduler (http://quartz-scheduler.org/quartz/) org.quartz-scheduler:quartz:jar:1.8.6
+    License: Apache 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - Restlet Core - API and Engine (http://www.restlet.org/org.restlet) org.restlet.jee:org.restlet:jar:2.2.1
+    License: Apache 2.0 license  (http://www.opensource.org/licenses/apache-2.0)    License: LGPL 3.0 license  (http://www.opensource.org/licenses/lgpl-3.0)    License: LGPL 2.1 license  (http://www.opensource.org/licenses/lgpl-2.1)    License: CDDL 1.0 license  (http://www.opensource.org/licenses/cddl1)    License: EPL 1.0 license  (http://www.opensource.org/licenses/eclipse-1.0)
+  - Restlet Extension - Servlet (http://www.restlet.org/org.restlet.ext.servlet) org.restlet.jee:org.restlet.ext.servlet:jar:2.2.1
+    License: Apache 2.0 license  (http://www.opensource.org/licenses/apache-2.0)    License: LGPL 3.0 license  (http://www.opensource.org/licenses/lgpl-3.0)    License: LGPL 2.1 license  (http://www.opensource.org/licenses/lgpl-2.1)    License: CDDL 1.0 license  (http://www.opensource.org/licenses/cddl1)    License: EPL 1.0 license  (http://www.opensource.org/licenses/eclipse-1.0)
+  - Restlet Extension - Spring Framework (http://www.restlet.org/org.restlet.ext.spring) org.restlet.jee:org.restlet.ext.spring:jar:2.2.1
+    License: Apache 2.0 license  (http://www.opensource.org/licenses/apache-2.0)    License: LGPL 3.0 license  (http://www.opensource.org/licenses/lgpl-3.0)    License: LGPL 2.1 license  (http://www.opensource.org/licenses/lgpl-2.1)    License: CDDL 1.0 license  (http://www.opensource.org/licenses/cddl1)    License: EPL 1.0 license  (http://www.opensource.org/licenses/eclipse-1.0)
+  - Restlet Core - API and Engine (http://www.restlet.org/org.restlet) org.restlet.osgi:org.restlet:jar:2.2.1
+    License: Apache 2.0 license  (http://www.opensource.org/licenses/apache-2.0)    License: LGPL 3.0 license  (http://www.opensource.org/licenses/lgpl-3.0)    License: LGPL 2.1 license  (http://www.opensource.org/licenses/lgpl-2.1)    License: CDDL 1.0 license  (http://www.opensource.org/licenses/cddl1)    License: EPL 1.0 license  (http://www.opensource.org/licenses/eclipse-1.0)
+  - Restlet Extension - Apache HTTP Client (http://www.restlet.org/org.restlet.ext.httpclient) org.restlet.osgi:org.restlet.ext.httpclient:jar:2.2.1
+    License: Apache 2.0 license  (http://www.opensource.org/licenses/apache-2.0)    License: LGPL 3.0 license  (http://www.opensource.org/licenses/lgpl-3.0)    License: LGPL 2.1 license  (http://www.opensource.org/licenses/lgpl-2.1)    License: CDDL 1.0 license  (http://www.opensource.org/licenses/cddl1)    License: EPL 1.0 license  (http://www.opensource.org/licenses/eclipse-1.0)
+  - Core  org.springframework.batch:spring-batch-core:jar:2.0.3.RELEASE
+
+  - Infrastructure  org.springframework.batch:spring-batch-infrastructure:jar:2.0.3.RELEASE
+
+  - Spring LDAP Core  org.springframework.ldap:spring-ldap-core:jar:1.3.1.RELEASE
+
+  - Spring LDAP Java 5 support  org.springframework.ldap:spring-ldap-core-tiger:jar:1.3.1.RELEASE
+
+  - Spring LDAP LDIF Batch  org.springframework.ldap:spring-ldap-ldif-batch:jar:1.3.1.RELEASE
+
+  - Spring LDAP LDIF Core  org.springframework.ldap:spring-ldap-ldif-core:jar:1.3.1.RELEASE
+
+  - Spring LDAP ODM (http://springframework.org/ldap) org.springframework.ldap:spring-ldap-odm:jar:1.3.1.RELEASE
+
+  - XML Pull Parsing API (http://www.xmlpull.org) xmlpull:xmlpull:jar:1.1.3.1
+    License: Public Domain  (http://www.xmlpull.org/v1/download/unpacked/LICENSE.txt)
+
+From: 'Apache Software Foundation' (http://www.apache.org)
+  - Apache Log4j (http://logging.apache.org/log4j/1.2/) log4j:log4j:bundle:1.2.17
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Extreme! Lab, Indiana University' (http://www.extreme.indiana.edu/)
+  - MXP1: Xml Pull Parser 3rd Edition (XPP3) (http://www.extreme.indiana.edu/xgws/xsoap/xpp/mxp1/) xpp3:xpp3_min:jar:1.1.4c
+    License: Indiana University Extreme! Lab Software License, vesion 1.1.1  (http://www.extreme.indiana.edu/viewcvs/~checkout~/XPP3/java/LICENSE.txt)    License: Public Domain  (http://creativecommons.org/licenses/publicdomain)
+
+From: 'FasterXML' (http://fasterxml.com)
+  - Jackson (http://jackson.codehaus.org) org.codehaus.jackson:jackson-core-asl:jar:1.9.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Data Mapper for Jackson (http://jackson.codehaus.org) org.codehaus.jackson:jackson-mapper-asl:jar:1.9.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Mort Bay Consulting' (http://www.mortbay.com)
+  - Jetty :: Asynchronous HTTP Client (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-client:jar:8.1.15.v20140411
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: Continuation (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-continuation:jar:8.1.15.v20140411
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: Http Utility (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-http:jar:8.1.15.v20140411
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: IO Utility (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-io:jar:8.1.15.v20140411
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: JMX Management (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-jmx:jar:8.1.15.v20140411
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: Security (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-security:jar:8.1.15.v20140411
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: Server Core (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-server:jar:8.1.15.v20140411
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: Servlet Handling (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-servlet:jar:8.1.15.v20140411
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: Utility Servlets and Filters (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-servlets:jar:8.1.15.v20140411
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: Utilities (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-util:jar:8.1.15.v20140411
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: Websocket (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-websocket:jar:8.1.15.v20140411
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty Orbit :: Servlet API (http://www.eclipse.org/jetty/jetty-orbit/javax.servlet) org.eclipse.jetty.orbit:javax.servlet:orbit:3.0.0.v201112011016
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+
+From: 'Oracle Corporation' (http://www.oracle.com/)
+  - istack common utility code runtime (http://java.net/istack-commons/istack-commons-runtime/) com.sun.istack:istack-commons-runtime:jar:2.16
+    License: CDDL 1.1  (https://glassfish.java.net/public/CDDL+GPL_1_1.html)    License: GPL2 w/ CPE  (https://glassfish.java.net/public/CDDL+GPL_1_1.html)
+  - JAXB CORE (http://jaxb.java.net/) com.sun.xml.bind:jaxb-core:jar:2.2.7
+    License: CDDL 1.1  (https://glassfish.java.net/public/CDDL+GPL_1_1.html)    License: GPL2 w/ CPE  (https://glassfish.java.net/public/CDDL+GPL_1_1.html)
+  - JAXB Reference Implementation (http://jaxb.java.net/) com.sun.xml.bind:jaxb-impl:jar:2.2.7
+    License: CDDL 1.1  (https://glassfish.java.net/public/CDDL+GPL_1_1.html)    License: GPL2 w/ CPE  (https://glassfish.java.net/public/CDDL+GPL_1_1.html)
+  - Java Architecture for XML Binding (http://jaxb.java.net/) javax.xml.bind:jaxb-api:jar:2.2.7
+    License: CDDL 1.1  (https://glassfish.java.net/public/CDDL+GPL_1_1.html)    License: GPL2 w/ CPE  (https://glassfish.java.net/public/CDDL+GPL_1_1.html)
+
+From: 'Oracle Corpration' (http://www.oracle.com)
+  - fastinfoset (http://fi.java.net) com.sun.xml.fastinfoset:FastInfoset:jar:1.2.12
+    License: Apache License, Version 2.0  (http://www.opensource.org/licenses/apache2.0.php)
+
+From: 'OSGi Alliance' (http://www.osgi.org)
+  - osgi.cmpn (http://www.osgi.org) org.osgi:org.osgi.compendium:jar:4.3.1
+    License: Apache License, Version 2.0  (http://opensource.org/licenses/apache2.0.php)
+  - osgi.core (http://www.osgi.org) org.osgi:org.osgi.core:jar:4.3.1
+    License: Apache License, Version 2.0  (http://opensource.org/licenses/apache2.0.php)
+
+From: 'QOS.ch' (http://www.qos.ch)
+  - SLF4J API Module (http://www.slf4j.org) org.slf4j:slf4j-api:jar:1.6.6
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+  - SLF4J LOG4J-12 Binding (http://www.slf4j.org) org.slf4j:slf4j-log4j12:jar:1.7.7
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+
+From: 'SpringSource' (http://springsource.org/spring-framework)
+  - Spring AOP (https://github.com/SpringSource/spring-framework) org.springframework:spring-aop:jar:3.2.11.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Spring Beans (https://github.com/SpringSource/spring-framework) org.springframework:spring-beans:jar:3.2.11.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Spring Context (https://github.com/SpringSource/spring-framework) org.springframework:spring-context:jar:3.2.11.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Spring Core (https://github.com/SpringSource/spring-framework) org.springframework:spring-core:jar:3.2.11.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Spring Expression Language (SpEL) (https://github.com/SpringSource/spring-framework) org.springframework:spring-expression:jar:3.2.11.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Spring JDBC (https://github.com/SpringSource/spring-framework) org.springframework:spring-jdbc:jar:3.2.11.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Spring Transaction (https://github.com/SpringSource/spring-framework) org.springframework:spring-tx:jar:3.2.11.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Spring Web (https://github.com/SpringSource/spring-framework) org.springframework:spring-web:jar:3.2.11.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Spring Web MVC (https://github.com/SpringSource/spring-framework) org.springframework:spring-webmvc:jar:3.2.6.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Commons CLI (http://commons.apache.org/cli/) commons-cli:commons-cli:jar:1.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons Codec (http://commons.apache.org/codec/) commons-codec:commons-codec:jar:1.5
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons DBCP (http://commons.apache.org/dbcp/) commons-dbcp:commons-dbcp:jar:1.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons Lang (http://commons.apache.org/lang/) commons-lang:commons-lang:jar:2.6
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons Logging (http://commons.apache.org/proper/commons-logging/) commons-logging:commons-logging:jar:1.1.3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons Pool (http://commons.apache.org/pool/) commons-pool:commons-pool:jar:1.6
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Camel :: Core (http://camel.apache.org/camel-parent/camel-core) org.apache.camel:camel-core:bundle:2.14.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Camel :: Jackson (http://camel.apache.org/camel-parent/camel-jackson) org.apache.camel:camel-jackson:bundle:2.9.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Camel :: JDBC (http://camel.apache.org/camel-parent/components/camel-jdbc) org.apache.camel:camel-jdbc:bundle:2.14.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Camel :: Quartz (http://camel.apache.org/camel-parent/components/camel-quartz) org.apache.camel:camel-quartz:bundle:2.14.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Camel :: Restlet (http://camel.apache.org/camel-parent/components/camel-restlet) org.apache.camel:camel-restlet:bundle:2.14.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Camel :: Spring (http://camel.apache.org/camel-parent/components/camel-spring) org.apache.camel:camel-spring:bundle:2.14.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Camel :: Spring LDAP (http://camel.apache.org/camel-parent/components/camel-spring-ldap) org.apache.camel:camel-spring-ldap:bundle:2.14.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Camel :: WebSocket (http://camel.apache.org/camel-parent/components/camel-websocket) org.apache.camel:camel-websocket:bundle:2.14.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache HttpClient (http://hc.apache.org/httpcomponents-client) org.apache.httpcomponents:httpclient:jar:4.3.3
+    License: Apache License, Version 2.0  (LICENSE.txt)
+  - Apache HttpCore (http://hc.apache.org/httpcomponents-core-ga) org.apache.httpcomponents:httpcore:jar:4.3.2
+    License: Apache License, Version 2.0  (LICENSE.txt)
+  - Apache HttpClient Mime (http://hc.apache.org/httpcomponents-client) org.apache.httpcomponents:httpmime:jar:4.3
+    License: Apache License  (LICENSE.txt)
+  - Apache JAMES Mime4j (Core) (http://james.apache.org/mime4j/apache-mime4j-core) org.apache.james:apache-mime4j-core:jar:0.7.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'XStream' (http://xstream.codehaus.org)
+  - XStream Core (http://codehaus.org/xstream-parent/xstream/) com.thoughtworks.xstream:xstream:jar:1.4.7
+    License: BSD style  (http://xstream.codehaus.org/license.html)
+
+
+
+
